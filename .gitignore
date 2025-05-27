@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.venv/
+env/
+venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Ultralytics YOLO
+runs/
+weights/
+*.pt
+*.onnx
+*.tflite
+*.mlmodel
+*.engine
+*.log
+*.ckpt
+
+# Dataset files
+datasets/
+data/
+*.zip
+*.tar.gz
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.csv
+*.json
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+android/.gradle/
+android

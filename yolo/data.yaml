@@ -1,0 +1,6 @@
+train: C:\Users\dalab\Desktop\azimjaan21\CBNU\Big Data\food_data\train\images
+val: C:\Users\dalab\Desktop\azimjaan21\CBNU\Big Data\food_data\train\images
+test: C:\Users\dalab\Desktop\azimjaan21\CBNU\Big Data\food_data\train\images
+
+nc: 42
+names: ['apple', 'avocado', 'banana', 'bell pepper', 'blueberries', 'bread', 'broccoli', 'butter', 'carrot', 'champignons', 'cheese', 'chicken', 'corn', 'cucumber', 'egg', 'eggplant', 'eggs', 'flour', 'garlic', 'green beans', 'kiwi', 'lemon', 'lettuce', 'lime', 'mango', 'meat', 'milk', 'nectarine', 'oil', 'onion', 'orange', 'pasta', 'peas', 'pomegranate', 'potato', 'red beans', 'shrimp', 'spinach', 'strawberries', 'tomato', 'white beans', 'yogurt']
